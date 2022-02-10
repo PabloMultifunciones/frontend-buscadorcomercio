@@ -1,0 +1,11 @@
+#register{
+    margin-top: 15%;
+    border-style: solid;
+    border-width: 3px;
+    border-color:rgb(105, 162, 253);
+}
+#register-header{
+    border-bottom-style: solid;
+    border-width: 3px;
+    border-color: rgb(105, 162, 253);
+}

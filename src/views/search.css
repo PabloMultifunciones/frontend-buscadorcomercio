@@ -1,0 +1,11 @@
+#search{
+    margin-top: 20%;
+}
+#card{
+    background-color: #F6F6F6;
+}
+#buttonClose{
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+}

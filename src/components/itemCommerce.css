@@ -1,0 +1,7 @@
+#miniCard{
+    background-color: #F6F6F6;
+}
+#miniCard:hover{
+    cursor: pointer;
+    box-shadow: 2px 2px 2px gray;
+}
